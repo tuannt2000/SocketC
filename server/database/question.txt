@@ -1,0 +1,105 @@
+Cau 1:TP Hoi An duoc UNESCO cong nhan la di san van hoa the gioi vao nam nao :
+1.1998
+2.1999
+3.2000
+4.2001
+1
+La nam thuoc the ky 20
+Cau 2:Thanh pho noi tieng voi 4 mua 1 ngay la :
+1.Da nang
+2.Da lat
+3.Ha noi
+4.Hai phong
+2
+La mot thanh pho thuoc tinh mien trung
+Cau 3:Tinh nao co nhieu thanh pho nhat Viet Nam :
+1.Quang Nam
+2.Quang Ninh
+3.Quang Binh
+4.Ha Giang
+2
+La mot tinh thuoc mien bac
+Cau 4:Dau la mot loai hinh cho tam tu phat xuat hien trong cac khu dan cu :
+1.Ech
+2.Coc
+3.Than lan
+4.Nhai
+2
+La cach goi theo dan gian tu xua
+Cau 5:Dau là ten mot bai bien dep o Quang Binh :
+1.Da Lan
+2.Da Nhay
+3.Da Chay
+4.Da Bo
+2
+Phan tich ky tu trong cac dap an tren
+Cau 6:Haiku la the tho truyen thong cua nuoc nao :
+1.Han Quoc
+2.Viet Nam
+3.Nhat Ban
+4.My
+3
+La mot quoc gia nam o chau A
+Cau 7:Nhac si nao sang tac ca khuc "Cay dan sinh vien" :
+1.Trinh Cong Son
+2.Cat Tuong
+3.Quoc An
+4.Tran Tien
+3
+La mot nhac si nam
+Cau 8:Nha van Kim Dung noi tieng voi the nao van hoc nao :
+1.Truyen trinh tham
+2.Tieu thuyet kiem hiep
+3.Su thi
+4.Tho lang man
+2
+La mot the loai hanh dong
+Cau 9:Bo phim "Chi Dau" duoc chuyen the tu tac pham nao
+1.Nguoi me cam sung
+2.Vo chong A Phu
+3.Tat den
+4.Tuoi tho du doi
+3
+Tac pham duoc viet boi nha van Ngo Tat To
+Cau 10:Hoa hau hoa binh Quoc Te 2017 du kien to chuc tai quoc gia nao:
+1.Thai Lan
+2.Phap
+3.My
+4.Viet Nam
+4
+La mot quoc gia thuoc Dong Nam A
+Cau 11:Dau la mot thanh pho truc thuoc Trung Uong:
+1.Ha Noi
+2.Lao Cai
+3.Phu Tho
+4.Thanh Hoa
+1
+La mot tinh thuoc mien Bac
+Cau 12:Tinh nao cua Viet Nam giap bien
+1.Lam Dong
+2.Hoa Binh
+3.Thai Binh
+4.Dong Nai
+3
+La mot tinh thuoc vung duyen hai
+Cau 13:Trai Dat cach Mat Troi bao nhieu dam:
+1.90 trieu
+2.39 trieu
+3.92 trieu
+4.100 trieu
+3
+La mot khoang cach < 100 trieu dam
+Cau 14:Tong thong My nao tung xuat hien trong phim truyen hinh Laugh-In:
+1.Lyndon Johnson
+2.Richard Nixon
+3.Jimmy Carter
+4.Gerald Ford
+2
+La mot vi tong thong sinh nam 1913
+Cau 15:Cong thuc phan tu cua oxy la gi :
+1.O2
+2.O
+3.O3
+4.Khong ton tai
+3
+Chuc mung ban : Cau nay khong co goi y
